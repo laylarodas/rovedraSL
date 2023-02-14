@@ -1,6 +1,6 @@
 # ROVEDRA S.L. 
 
-Multiservicios. Trabajos de:   
+Empresa de multiservicios. Trabajos de:   
 - Albañilería.  
 - Fontanería.  
 - Electricidad.  
@@ -8,7 +8,7 @@ Multiservicios. Trabajos de:
 
 
 ### Público objetivo:
-Personas que necesiten arreglar un problema tecnico o deseen realizar reformas en su hogar, local, etc. Que se encuentren en cualquier punto de Palma de Mallorca. Presupuestos personalizados.
+Personas que necesiten solucionar problemas tecnicos o deseen realizar reformas en su hogar, local, etc. Que se encuentren en cualquier punto de Palma de Mallorca. Presupuestos personalizados.
 
 ### Sitios web de referencia:
 

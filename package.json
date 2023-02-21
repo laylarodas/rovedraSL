@@ -1,9 +1,10 @@
 {
   "name": "rovedrasl",
   "version": "1.0.0",
-  "description": "\"empresa de multiservicios\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[E\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\"",
-  "main": "\u001b[D\u001b[D\u001b[D\u001bhtml)",
+  "description": "Empresa de multiservicios",
+  "main": "index.html",
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/laylarodas/rovedraSL/issues"
   },
-  "homepage": "https://github.com/laylarodas/rovedraSL#readme"
+  "homepage": "https://github.com/laylarodas/rovedraSL#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }

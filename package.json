@@ -1,0 +1,19 @@
+{
+  "name": "rovedrasl",
+  "version": "1.0.0",
+  "description": "\"empresa de multiservicios\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[E\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\"",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bhtml)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laylarodas/rovedraSL.git"
+  },
+  "author": "Layla Rodas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laylarodas/rovedraSL/issues"
+  },
+  "homepage": "https://github.com/laylarodas/rovedraSL#readme"
+}

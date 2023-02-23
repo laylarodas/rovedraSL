@@ -1,11 +1,20 @@
+.navbar-rovedra{
+    padding: 2px;
+    background-color: #f57c00;
+    color: #FFE0B2;
+}
+
+
 .jumbotron {
-    padding: 20px;
+    padding: 35px;
     background-color: #FF9800;
     color: #FFE0B2;
     margin-bottom: 20px;
+    margin-top: 42px;
 }
 
 footer {
+    width: 100%;
     padding: 20px;
     background-color:#BDBDBD;
     color: #212121;

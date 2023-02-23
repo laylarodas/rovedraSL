@@ -1,0 +1,28 @@
+.jumbotron {
+    padding: 20px;
+    background-color: #FF9800;
+    color: #FFE0B2;
+    margin-bottom: 20px;
+}
+
+footer {
+    padding: 20px;
+    background-color:#BDBDBD;
+    color: #212121;
+    margin-top: 20px;
+}
+
+footer h4 {
+    color: #212121;
+}
+
+.card-hotel{
+    flex: 1 150px;
+    margin: 5px;
+}
+
+.btn-click{
+    width: 100%;
+    background-color: #8BC34A;
+    color: #212121;
+}
